@@ -1,0 +1,24 @@
+{
+  "name": "@feizheng/ushell-module-acme",
+  "version": "1.0.0",
+  "description": "Acme for ushell module.",
+  "main": "index.sh",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afeiship/ushell-module-acme.git"
+  },
+  "keywords": [
+    "ushell",
+    "unix",
+    "shell",
+    "ushell-module-acme"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/afeiship/ushell-module-acme/issues"
+  },
+  "homepage": "https://github.com/afeiship/ushell-module-acme",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  }
+}
