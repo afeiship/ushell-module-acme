@@ -7,7 +7,7 @@
 
 ## installation
 ```shell
-npm i -S @feizheng/ushell-module-acme
+npm i -S @jswork/ushell-module-acme
 ```
 
 ## license

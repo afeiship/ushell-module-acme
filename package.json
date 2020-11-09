@@ -1,5 +1,5 @@
 {
-  "name": "@feizheng/ushell-module-acme",
+  "name": "@jswork/ushell-module-acme",
   "version": "1.0.0",
   "description": "Acme for ushell module.",
   "main": "index.sh",
